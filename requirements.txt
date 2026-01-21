@@ -1,3 +1,5 @@
 streamlit
 google-generativeai
 PyMuPDF
+PROMPT_WORKAW = """
+
